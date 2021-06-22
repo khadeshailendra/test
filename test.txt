@@ -1,2 +1,6 @@
 this test doc
+.
+.
+.
+this is third test
 
